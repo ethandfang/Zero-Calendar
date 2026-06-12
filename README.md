@@ -1,4 +1,4 @@
-# Zero Calendar Ethan Fang
+# Zero Calendar
 
 AI-powered scheduling with natural language event creation, Google Calendar sync, invite emails, and analytics built on Next.js, Convex, and Better Auth.
 
